@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+            //exercise one
+
             var r = new Random();
             //var favNumber = r.Next(1, 100);
             var favNumber = 75;
